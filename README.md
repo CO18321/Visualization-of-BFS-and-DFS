@@ -3,7 +3,7 @@
 ## Execution:    
 Step 1: Creating Nodes: right click on canvas area creates a new node
 <br>
-<p>
+<p style="text-align:justify">
 <img src = "bfs_output/a.JPG" width = "300" />
 <img src = "bfs_output/b.JPG" width = "300"/>
 <img src = "bfs_output/d.JPG" width = "300"/>
