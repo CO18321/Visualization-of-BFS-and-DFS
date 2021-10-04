@@ -2,7 +2,7 @@
 
 ## Execution:    
 Step 1: Creating Nodes: right click on canvas area creates a new node
-![bfs_output/a.jpg](bfs_output/a.jpg "Hello")
+<img src = "bfs_output/a.jpg"/>
 
 
 
