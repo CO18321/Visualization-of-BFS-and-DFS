@@ -4,9 +4,9 @@
 Step 1: Creating Nodes: Right click on canvas area creates a new node
 <br>
 <p>
-<img src = "bfs_output/a.JPG" width = "280" />
-<img src = "bfs_output/b.JPG" width = "280"/>
-<img src = "bfs_output/d.JPG" width = "280"/>
+<img src = "bfs_output/a.JPG" width = "250" />
+<img src = "bfs_output/b.JPG" width = "250"/>
+<img src = "bfs_output/d.JPG" width = "250"/>
 <p/>
 <br>
 
