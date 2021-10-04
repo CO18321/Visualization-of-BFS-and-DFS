@@ -4,9 +4,9 @@
 Step 1: Creating Nodes: Right click on canvas area creates a new node
 <br>
 <p>
-<img src = "bfs_output/a.JPG" width = "300" />
-<img src = "bfs_output/b.JPG" width = "300"/>
-<img src = "bfs_output/d.JPG" width = "300"/>
+<img src = "bfs_output/a.JPG" width = "280" />
+<img src = "bfs_output/b.JPG" width = "280"/>
+<img src = "bfs_output/d.JPG" width = "280"/>
 <p/>
 <br>
 
@@ -35,7 +35,7 @@ Step 4: Visualization: The program visualizes BFS by changing the colour of node
 <img src = "bfs_output/o6.JPG" width = "300"/>
 <p/>
 <p>
-<img src = "bfs_output/o7.JPG" width = "300" />
+<img src = "bfs_output/07.JPG" width = "300" />
 <img src = "bfs_output/o8.JPG" width = "300"/>
 <img src = "bfs_output/o9.JPG" width = "300"/>
 <p/>
