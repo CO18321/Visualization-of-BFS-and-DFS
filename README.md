@@ -1,16 +1,17 @@
 # Visualization-of-BFS-and-DFS
 
 ## Execution:    
-Step 1: Creating Nodes: right click on canvas area creates a new node
+#### Step 1: Creating Nodes: 
+Right click on canvas area creates a new node
 <br>
-<p style="text-align:justify">
+<p>
 <img src = "bfs_output/a.JPG" width = "300" />
 <img src = "bfs_output/b.JPG" width = "300"/>
 <img src = "bfs_output/d.JPG" width = "300"/>
 <p/>
-
-
-2. Creating Edges: Drag the mouse between two nodes to create an edge
+<br>
+#### Step 2: Creating Edges: 
+Drag the mouse between two nodes to create an edge
 
 
 
