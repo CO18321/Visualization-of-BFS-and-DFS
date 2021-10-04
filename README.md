@@ -12,6 +12,11 @@ Right click on canvas area creates a new node
 <br>
 #### Step 2: Creating Edges: 
 Drag the mouse between two nodes to create an edge
+<p>
+<img src = "bfs_output/e.JPG" width = "300" />
+<img src = "bfs_output/f.JPG" width = "300"/>
+<img src = "bfs_output/h.JPG" width = "300"/>
+<p/>
 
 
 
