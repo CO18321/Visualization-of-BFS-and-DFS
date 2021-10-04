@@ -2,7 +2,7 @@
 
 ## Execution:    
 Step 1: Creating Nodes: right click on canvas area creates a new node
-![alt text](Visualization-of-BFS-and-DFS/bfs_output/a.jpg "Hello")
+![bfs_output/a.jpg](bfs_output/a.jpg "Hello")
 
 
 
